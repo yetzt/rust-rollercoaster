@@ -6,7 +6,7 @@ Rust Rollercoaster is a custom prefab for the game [Rust](https://rust.facepunch
 
 ## Usage
 
-Download the file prefab files and place them in the `RustEdit/CustomPrefabs` directory of [RustEdit](https://rustedit.io/). The prefab can then be accessed in the custom section of the prefab browser. Don't forget to apply *Height*, *Topology* and *Splat* masks and break the prefab before you save the map to be used on your server. 
+[Download the file prefab files](releases/latest/download/Rollercoaster.zip) and place them in the `RustEdit/CustomPrefabs` directory of [RustEdit](https://rustedit.io/). The prefab can then be accessed in the custom section of the prefab browser. Don't forget to apply *Height*, *Topology* and *Splat* masks and break the prefab before you save the map to be used on your server. 
 
 ## Screenshots
 
